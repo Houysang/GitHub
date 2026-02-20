@@ -1,0 +1,19 @@
+# Compiled classes
+*.class
+
+#Maven / Gradle build folder
+bin/
+target/
+
+#IDE files
+.vscode/
+.idea/
+*.iml
+
+#OS /System files
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
+#Logs
+*.log
