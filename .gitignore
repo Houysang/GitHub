@@ -1,19 +1,19 @@
-# Compiled classes
+# Compiled Java files
 *.class
 
-#Maven / Gradle build folder
+# Build folders
 bin/
 target/
 
-#IDE files
+# IDE/editor settings
 .vscode/
 .idea/
 *.iml
 
-#OS /System files
+# OS/system files
 .DS_Store
 Thumbs.db
 $RECYCLE.BIN/
 
-#Logs
+# Logs
 *.log
